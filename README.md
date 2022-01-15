@@ -24,7 +24,7 @@ are robust and outperforms state-of-the-art methods.
 
 This repository holds the Python implementation of the method described in the paper published in BIBM 2021.
 
-Boheng Cao, Shikui Tu*, Lei Xu, "Flexible-CLmser: Regularized Feedback Connections for Biomedical Image Segmentation", BIBM2021
+B. Cao, S. Tu and L. Xu, "Flexible-CLmser: Regularized Feedback Connections for Biomedical Image Segmentation," 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, pp. 829-835, doi: 10.1109/BIBM52615.2021.9669446.
 
 ![Image](https://github.com/SJTUMisaka/Flexible-CLmser/blob/main/model.png)
 ## Content
