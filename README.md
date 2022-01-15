@@ -117,5 +117,13 @@ This project would not have been finished without using the codes or files from 
 Please cite our work if you find our code/paper is useful to your work.
 
 ```
-tbd
+@INPROCEEDINGS{9669446,
+  author={Cao, Boheng and Tu, Shikui and Xu, Lei},
+  booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Flexible-CLmser: Regularized Feedback Connections for Biomedical Image Segmentation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={829-835},
+  doi={10.1109/BIBM52615.2021.9669446}}
 ```
